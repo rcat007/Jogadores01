@@ -1,0 +1,15 @@
+@charset "UTF-8";
+picture{
+    width: min-content;
+    height: min-content;
+   align-items: center;
+    
+}
+h1{
+    text-align: center; text-justify: auto;
+}
+body{
+    background-image: linear-gradient(to top, rgba(4, 4, 175, 0.795), rgba(36, 36, 180, 0.795), rgba(150, 140, 140, 0.589));
+  background-attachment: fixed;
+}
+
